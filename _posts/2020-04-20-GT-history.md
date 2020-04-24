@@ -1,9 +1,9 @@
 ---
 layout:      post
-title:       Gas-Turbine History
-subtitle:    Introduction and brief review of the gas-turbine development
-date:        2020-04-20
-author:      BY
+title:       古筝课程简介
+subtitle:    Introduction of Chinese Zither
+date:        2020-04-24
+author:      李响
 header-img:  img/post-GS01.jpg
 catalog:     true
 tags:
@@ -13,6 +13,8 @@ tags:
     - 教育心理学
 ---
 
-## Hey, welcome to Qijie's Teaching Blog!
->This is a new start, let's enjoy the learning of science and technology.
->Today, I will give a brief review of the history of Gas-Turbine.
+## Hey, 欢迎👏来到理想古筝课程!
+>古筝是“仁者之器”是雅乐之泉，常习者气质趋于古典优雅，少儿学习古筝能够开发智利、增强记忆力，培养耐心和细致的学习习惯，更能使急躁慌张的性格向温和儒雅转变。
+>学习古筝不仅逐步学会认识音乐，掌握音乐的基本知识和演奏技能，更使身体、智利、情感、个性全面发展！
+>古筝是伴随我国悠久文化历史的古老民族乐器，至今已有2500年的历史。它音域宽广，音色清亮，表现力丰富。常用于独奏、重奏、乐器合奏和歌舞、戏曲、曲艺的伴奏，被称为“众乐之王”，亦称为“东方钢琴”。
+>古筝的代表作曲目包括：《高山流水》、《汉宫秋》、《渔舟唱晚》等著名曲目。
