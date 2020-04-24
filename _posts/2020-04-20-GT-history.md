@@ -7,13 +7,10 @@ author:      BY
 header-img:  img/post-GS01.jpg
 catalog:     true
 tags:
-    - Teaching
-    - CFD
-    - Mechanical Engineering
-    - Gas Turbine
-    - Marine Engineering
-    - Machine Learning
-    - Deep Learning
+    - 古筝
+    - 音乐教育
+    - 幼儿教育
+    - 教育心理学
 ---
 
 ## Hey, welcome to Qijie's Teaching Blog!
